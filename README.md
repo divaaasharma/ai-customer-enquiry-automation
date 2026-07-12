@@ -34,7 +34,7 @@ The workflow automatically collects customer details, stores them in Google Shee
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -88,19 +88,19 @@ AI-Customer-Enquiry-Automation
 
 ## Workflow
 
-<img width="940" height="381" alt="image" src="https://github.com/user-attachments/assets/de892e05-505d-4c14-b6e0-855164b21334" />
+<img width="500" height="381" alt="image" src="https://github.com/user-attachments/assets/de892e05-505d-4c14-b6e0-855164b21334" />
 
 ## Google Sheet
 
-<img width="940" height="308" alt="image" src="https://github.com/user-attachments/assets/65ccdfaa-2588-45e3-86a3-2eccbe8dc834" />
+<img width="500" height="308" alt="image" src="https://github.com/user-attachments/assets/65ccdfaa-2588-45e3-86a3-2eccbe8dc834" />
 
 
-<img width="940" height="129" alt="image" src="https://github.com/user-attachments/assets/9c9c99a5-e0cc-47e3-9e5c-20c151f1874b" />
+<img width="500" height="129" alt="image" src="https://github.com/user-attachments/assets/9c9c99a5-e0cc-47e3-9e5c-20c151f1874b" />
 
 ---
 
 ## WhatsApp Confirmation
-<img width="706" height="864" alt="image" src="https://github.com/user-attachments/assets/f28eaaa0-80c0-4007-859f-899335604a6b" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f28eaaa0-80c0-4007-859f-899335604a6b" />
 
 ---
 
