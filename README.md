@@ -18,19 +18,19 @@ The workflow automatically collects customer details, stores them in Google Shee
 
 #  Features
 
-✅ AI-powered customer interaction
+ AI-powered customer interaction
 
-✅ Automated workflow using n8n
+ Automated workflow using n8n
 
-✅ Customer enquiry collection
+ Customer enquiry collection
 
-✅ Google Sheets integration
+ Google Sheets integration
 
-✅ WhatsApp confirmation messages
+ WhatsApp confirmation messages
 
-✅ No manual data entry
+ No manual data entry
 
-✅ Easy to customize for any business
+ Easy to customize for any business
 
 ---
 
@@ -84,47 +84,41 @@ AI-Customer-Enquiry-Automation
 
 ---
 
-# 📸 Project Screenshots
+#  Project Screenshots
 
 ## Workflow
 
-<img src="images/workflow.png" width="900"/>
-
----
-
-## AI Chat
-
-<img src="images/chatbot.png" width="900"/>
-
----
+<img width="940" height="381" alt="image" src="https://github.com/user-attachments/assets/de892e05-505d-4c14-b6e0-855164b21334" />
 
 ## Google Sheet
 
-<img src="images/google-sheet.png" width="900"/>
+<img width="940" height="308" alt="image" src="https://github.com/user-attachments/assets/65ccdfaa-2588-45e3-86a3-2eccbe8dc834" />
+
+
+<img width="940" height="129" alt="image" src="https://github.com/user-attachments/assets/9c9c99a5-e0cc-47e3-9e5c-20c151f1874b" />
 
 ---
 
 ## WhatsApp Confirmation
-
-<img src="images/whatsapp-message.png" width="350"/>
+<img width="706" height="864" alt="image" src="https://github.com/user-attachments/assets/f28eaaa0-80c0-4007-859f-899335604a6b" />
 
 ---
 
 #  How It Works
 
-### Step 1
+### STEP 1
 
 Customer starts a conversation.
 
 ↓
 
-### Step 2
+### STEP 2
 
 Google Gemini AI understands the request.
 
 ↓
 
-### Step 3
+### STEP 3
 
 The AI collects:
 
@@ -135,13 +129,13 @@ The AI collects:
 
 ↓
 
-### Step 4
+### STEP 4
 
 Customer information is automatically stored in Google Sheets.
 
 ↓
 
-### Step 5
+### STEP 5
 
 Twilio sends an instant WhatsApp confirmation message.
 
